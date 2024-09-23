@@ -57,13 +57,11 @@ El árbol de directorios del repositorio es el siguiente:
 
 ## Conclusiones
 
-Este proyecto fue una gran oportunidad para combinar mis habilidades en data science con mi interés en mejorar la movilidad urbana. Utilizando el conjunto de datos de Uber en Nueva York, he diseñado una red de transporte básica que busca optimizar el servicio en áreas de alta demanda.
+- La clusterización como herramienta para selección de periodos de indicadores técnicos: El uso de técnicas de clusterización, como K-means, facilita la selección de los periodos de indicadores técnicos más relevantes. Al agrupar periodos similares y seleccionar aquellos con mayor correlación con la variable objetivo, se mitiga la multicolinealidad y se preservan solo las características que aportan mayor poder predictivo al modelo.
 
-Principales Aprendizajes:
+- Identificación de regímenes de mercado: El uso de clusterización con un enfoque descriptivo permite identificar patrones dentro de los indicadores técnicos que revelan posibles regímenes de mercado. Este análisis descriptivo puede ayudar a los traders a adaptar sus estrategias según las condiciones cambiantes del mercado.
 
-- Eficiencia del k-means: El método k-means resultó ser la herramienta más efectiva para identificar áreas clave para nuevas paradas de transporte. Este método fue directo y produjo clusters claros y manejables, facilitando la siguiente fase de diseño de la red.
-
-- Implementación del algoritmo de Kruskal: Aplicar Kruskal para conectar estas nuevas paradas fue una decisión técnica clave que ayudó a minimizar los costos y maximizar la eficiencia de la red propuesta. Fue satisfactorio ver cómo una técnica teórica se traduce en aplicaciones prácticas que podrían, en teoría, implementarse en la vida real.
+- Control del drift en las features mediante PSI: La inclusión del Population Stability Index (PSI) es fundamental para monitorear la estabilidad de las características a lo largo del tiempo. Esto permite detectar cambios estadísticos significativos o drift entre las ventanas de train y test, garantizando que los modelos se mantengan efectivos y no se degraden debido a cambios en las propiedades de los datos.
 
 ## Autor
 
