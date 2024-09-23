@@ -61,3 +61,10 @@ Principales Aprendizajes:
 - Eficiencia del k-means: El método k-means resultó ser la herramienta más efectiva para identificar áreas clave para nuevas paradas de transporte. Este método fue directo y produjo clusters claros y manejables, facilitando la siguiente fase de diseño de la red.
 
 - Implementación del algoritmo de Kruskal: Aplicar Kruskal para conectar estas nuevas paradas fue una decisión técnica clave que ayudó a minimizar los costos y maximizar la eficiencia de la red propuesta. Fue satisfactorio ver cómo una técnica teórica se traduce en aplicaciones prácticas que podrían, en teoría, implementarse en la vida real.
+
+## Autor
+
+Jhon Jairo Realpe
+
+jhon.td.03@gmail.com
+
