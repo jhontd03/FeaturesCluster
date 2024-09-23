@@ -27,7 +27,7 @@ Instale [python](https://www.python.org/downloads/) y [vscode](https://code.visu
 Clone el presente repositorio cree un entorno virtual, instale las librerias y ejecute el notebook con vscode.
 
 ```
-git clone https://github.com/jhontd03/RedesTransporte.git
+git clone https://github.com/jhontd03/FeaturesCluster.git
 cd FeaturesCluster
 conda create -n FeaturesCluster python=3.11.9 
 activate FeaturesCluster
