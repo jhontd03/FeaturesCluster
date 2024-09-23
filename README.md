@@ -1,5 +1,7 @@
 # Técnicas de Clusterización Aplicadas en la Selección del Periodo de Indicadores Técnicos
 
+![candles](https://github.com/jhontd03/accidentapp/blob/master/img/candles.png "candles")
+
 ## [Contenido](#Contenido)
 
 - [Introducción](#Introduccón)
