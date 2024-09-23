@@ -19,13 +19,13 @@ Se complementa el estudio con la técnica de PSI (Population Stability Index), q
 
 ## Instalación
 
-## Requisitos
+### Requisitos
 
 Para la ejecución del programa es necesario instalar la version de python 3.11.9, vscode y los paquetes del archivo requirements.txt
 
 Instale [python](https://www.python.org/downloads/) y [vscode](https://code.visualstudio.com/download)
 
-## Uso
+### Uso
 
 Clone el presente repositorio cree un entorno virtual, instale las librerias y ejecute el notebook con vscode.
 
