@@ -1,6 +1,6 @@
 # Técnicas de Clusterización Aplicadas en la Selección del Periodo de Indicadores Técnicos
 
-![candles fig](https://github.com/jhontd03/FeaturesCluster/blob/master/img/candles.png "candles_fig")
+![cluster fig](https://github.com/jhontd03/FeaturesCluster/blob/master/img/cluster.png "cluster_fig")
 
 ## [Contenido](#Contenido)
 
