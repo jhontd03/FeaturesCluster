@@ -57,7 +57,7 @@ El árbol de directorios del repositorio es el siguiente:
 │   __init__.py
 ```
 
-## Conclusiones
+## Resultados
 
 - La clusterización como herramienta para selección de periodos de indicadores técnicos: El uso de técnicas de clusterización, como K-means, facilita la selección de los periodos de indicadores técnicos más relevantes. Al agrupar periodos similares y seleccionar aquellos con mayor correlación con la variable objetivo, se mitiga la multicolinealidad y se preservan solo las características que aportan mayor poder predictivo al modelo.
 
